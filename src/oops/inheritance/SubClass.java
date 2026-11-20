@@ -10,6 +10,7 @@ public class SubClass extends A {
 
     public static void main(String[] args) {
         SubClass  obj =new SubClass(+14,"Krisha");
+//        Object
         System.out.println(obj.num);
     }
 }
